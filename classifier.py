@@ -1,6 +1,6 @@
 import tensorflow as tf
 from tensorflow.keras.preprocessing.text import Tokenizer
-from tensorflow.keras.preprocessing.sequence import pad_sequenc
+from tensorflow.keras.preprocessing.sequence import pad_sequences
 
 import pandas as pd
 import numpy as np
